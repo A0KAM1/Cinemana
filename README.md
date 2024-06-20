@@ -13,3 +13,5 @@ This project was created for learning pourporses, and it is a CRUD Api that mana
 
 ### Database
 * MongoDB
+
+this will be updated soon <3
