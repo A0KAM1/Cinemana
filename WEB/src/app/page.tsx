@@ -1,5 +1,7 @@
 import React from 'react';
 
 export default function Page(){
-    return <h1>Hello, Next.js!</h1>
+    return (
+        <div className="text-bold">This will be the list component</div>
+    )
 }
